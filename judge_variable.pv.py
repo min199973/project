@@ -1,0 +1,6 @@
+a=int(50)
+b=int(100)
+c=str(None)
+print(a)
+print(b)
+print(c)
